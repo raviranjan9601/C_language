@@ -8,6 +8,6 @@ int main(){
     printf("Enter cube: ");
     scanf("%f", &cube);
     
-    printf("cube of %f is:%f", cube, cube * cube * cube);
+    printf("cube of %.2f is:%.2f", cube, cube * cube * cube);
     return 0;
 }

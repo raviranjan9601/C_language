@@ -16,5 +16,4 @@ int main(){
     printf("\n 1st number is = %d, and 2nd number is = %d",num1, num2);
 
     return 0;
-
 }
